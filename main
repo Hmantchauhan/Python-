@@ -1,0 +1,11 @@
+a = 5
+b = 6
+print("the sum of two Numbers", a+b)
+
+a = int(input("Enter the First Number:"))
+b= int(input("Enter the Second Number:"))
+
+print("The sum of two Numbers", a+b)
+
+sum = a+b
+print("The sum of the Provided two numbers is", sum)
